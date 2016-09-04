@@ -14,7 +14,6 @@
         "dhii/data-object-blueprint": "dev-master"
     },
     "require-dev": {
-        "phpspec/phpspec": "~3.0",
         "dhii/php-cs-fixer-config": "dev-php-5.3"
     },
     "autoload": {
